@@ -19,8 +19,8 @@ Step 7 : Finally Free device global memory,host memory and reset device.
 
 Step 8 : Save and Run the Program.
 ## Program:
-Developed By : DINESHKUMAR S
-Register No : 212220230012
+Developed By : BALAJI N
+Register No : 212220230006
 ```
 #include "common.h"
 #include <cuda_runtime.h>
